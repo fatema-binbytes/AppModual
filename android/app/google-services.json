@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "189227254852",
+    "firebase_url": "https://appmodual.firebaseio.com",
+    "project_id": "appmodual",
+    "storage_bucket": "appmodual.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189227254852:android:87b199729b0aa58dd66811",
+        "android_client_info": {
+          "package_name": "com.appmodual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189227254852-1bf8q2vf60odfto74epmt61umjrndor0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appmodual",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "189227254852-qa1enn60rh50557c3s8rads85uhrupe7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCivX01qMGCzwP8jjTf9l-uI3PbW-w-QTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189227254852-qa1enn60rh50557c3s8rads85uhrupe7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
